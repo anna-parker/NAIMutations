@@ -1,0 +1,4 @@
+﻿Subtype,Mutation,Position,Oseltamivir,Zanamivir,Peramivir,Laninamivir,Comments
+A(H3N2)v,S245N,245,NI (1),NI (1),NI (1),NI (1),Sur; RG (77)
+A(H3N2)v,S247P,247,RI (42),HRI (266),NI (2),NI (9),Sur; RG (77)
+A(H3N2)v,S245N+S247P,245+247,RI (31-40),HI/HRI (66-235),NI (1-2),NI (7-9),"Sur; RG (33, 77)"
